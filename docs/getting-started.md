@@ -1,6 +1,4 @@
----
-title: Getting started
----
+## Getting started
 
 Easy steps to install a development environment and start a project.
 

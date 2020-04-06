@@ -1,6 +1,4 @@
----
-title: TCP/UDP programming with sockets
----
+# TCP/UDP programming with sockets
 
 This is a short guide to TCP/IP and UDP/IP client/server programming in Common
 Lisp using [usockets](https://github.com/usocket/usocket).

@@ -1,6 +1,4 @@
----
-title: Editor support
----
+# Editor support
 
 The editor of choice is still Emacs, but it is not the only one.
 

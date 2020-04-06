@@ -1,6 +1,4 @@
----
-title: Using the Win32 API
----
+# Using the Win32 API
 
 
 <a name="intro"></a>

@@ -1,6 +1,4 @@
----
-title: Input/Output
----
+# Input/Output
 
 <a name="redir"></a>
 

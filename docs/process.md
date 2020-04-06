@@ -1,6 +1,4 @@
----
-title: Threads
----
+# Threads
 
 
 <a name="intro"></a>

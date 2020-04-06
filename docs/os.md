@@ -1,6 +1,4 @@
----
-title: Interfacing with your OS
----
+# Interfacing with your OS
 
 
 The ANSI Common Lisp standard doesn't mention this topic. (Keep in mind that it was written at a time where [Lisp Machines](http://kogs-www.informatik.uni-hamburg.de/~moeller/symbolics-info/symbolics.html) were at their peak. On these boxes Lisp _was_ your operating system!) So almost everything that can be said here depends on your OS and your implementation.
@@ -333,7 +331,7 @@ keyword:
  - If it's `:stream`, a new stream will be made available that can be accessed via
    `process-info-output` and read from.
  - Otherwise, `output` should be a value that the underlying lisp
-   implementation knows how to handle. 
+   implementation knows how to handle.
 
 `if-output-exists`, which is only meaningful if `output` is a string or a
 pathname, can take the values `:error`, `:append`, and `:supersede` (the

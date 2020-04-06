@@ -1,6 +1,4 @@
----
-title: Data structures
----
+# Data structures
 
 We hope to give here a clear reference of the common data
 structures. To really learn the language, you should take the time to

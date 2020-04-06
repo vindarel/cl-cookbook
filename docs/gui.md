@@ -1,6 +1,4 @@
----
-title: GUI toolkits
----
+# GUI toolkits
 
 Lisp has a long and rich history and so does the development of
 Graphical User Interfaces in Lisp. In fact, the first GUI builder was

@@ -1,6 +1,4 @@
----
-title: Database Access and Persistence
----
+# Database Access and Persistence
 
 The
 [Database section on the Awesome-cl list](https://github.com/CodyReichert/awesome-cl#database)

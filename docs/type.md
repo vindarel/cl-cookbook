@@ -1,6 +1,4 @@
----
-title: Type System
----
+# Type System
 
 Common Lisp has a complete and flexible type system and corresponding
 tools to inspect, check and manipulate types. It allows creating

@@ -1,6 +1,4 @@
----
-title: Miscellaneous
----
+# Miscellaneous
 
 
 <a name="opt"></a>

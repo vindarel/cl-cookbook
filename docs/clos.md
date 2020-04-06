@@ -1,6 +1,4 @@
----
-title: Fundamentals of CLOS
----
+# Fundamentals of CLOS
 
 
 CLOS is the "Common Lisp Object System", arguably one of the most

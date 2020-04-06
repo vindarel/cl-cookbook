@@ -1,6 +1,4 @@
----
-title: Multidimensional arrays
----
+# Multidimensional arrays
 
 Common Lisp has native support for multidimensional arrays, with some
 special treatment for 1-D arrays, called `vectors`. Arrays can be
