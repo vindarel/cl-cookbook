@@ -1,6 +1,4 @@
----
-title: Performance Tuning and Tips
----
+# Performance Tuning and Tips
 
 Many Common Lisp implementations translate the source code into assembly
 language, so the performance is really good compared with some other

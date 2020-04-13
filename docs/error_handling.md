@@ -1,6 +1,4 @@
----
-title: Error and exception handling
----
+# Error and exception handling
 
 Common Lisp has mechanisms for error and condition handling as found
 in other languages, and can do more.

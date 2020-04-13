@@ -1,6 +1,4 @@
----
-title: Loop, iteration, mapping
----
+# Loop, iteration, mapping
 
 TODO: of-type
 

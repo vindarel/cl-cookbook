@@ -1,6 +1,4 @@
----
-title: Functions
----
+# Functions
 
 <a name="return"></a>
 

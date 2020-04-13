@@ -1,6 +1,4 @@
----
-title: Setting up Emacs on Windows or Mac
----
+# Setting up Emacs on Windows or Mac
 
 Emacs is the preferred Lisp source code editor for most CL developers.
 

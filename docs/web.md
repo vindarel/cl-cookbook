@@ -1,6 +1,4 @@
----
-title: Web development
----
+# Web development
 
 
 For web development as for any other task, one can leverage Common

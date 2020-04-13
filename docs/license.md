@@ -1,6 +1,4 @@
----
-title: License
----
+# License
 
 Redistribution and use of the "Common Lisp Cookbook" in its original form (HTML)
 or in 'derived' forms (PDF, Postscript, RTF and so forth) with or without

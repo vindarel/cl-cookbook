@@ -1,6 +1,4 @@
----
-title: Scripting. Command line arguments. Executables.
----
+# Scripting. Command line arguments. Executables.
 
 Using a program from a REPL is fine and well, but if we want to
 distribute our program easily, we'll want to build an executable.

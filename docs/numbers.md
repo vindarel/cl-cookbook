@@ -1,6 +1,4 @@
----
-title: Numbers
----
+# Numbers
 
 Common Lisp has a rich set of numerical types, including integer,
 rational, floating point, and complex.

@@ -1,6 +1,4 @@
----
-title: Web Scraping
----
+# Web Scraping
 
 The set of tools to do web scraping in Common Lisp is pretty complete
 and pleasant. In this short tutorial we'll see how to make http

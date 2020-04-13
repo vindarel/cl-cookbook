@@ -1,6 +1,4 @@
----
-title: Testing
----
+# Testing
 
 So you want to easily test the code you're writing? The following
 recipes cover how to write automated tests and see their code

@@ -1,6 +1,4 @@
----
-title: Defining Systems
----
+# Defining Systems
 
 A **system** is a collection of Lisp files that together constitute an application or a library, and that should therefore be managed as a whole. A **system definition** describes which source files make up the system, what the dependencies among them are, and the order they should be compiled and loaded in.
 
@@ -106,7 +104,7 @@ Instead of `using` multiple complete packages, you might want to just import par
   (:import-from #:trivia
                 #:some-function
                 #:another-function))
-...)                
+...)
 ~~~
 
 

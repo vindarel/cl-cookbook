@@ -1,6 +1,4 @@
----
-title: Debugging
----
+# Debugging
 
 You entered this new world of Lisp and now wonder: how can we debug
 what's going on? How is it more interactive than other platforms?

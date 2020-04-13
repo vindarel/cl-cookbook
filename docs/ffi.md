@@ -1,6 +1,4 @@
----
-title: Foreign Function Interfaces
----
+# Foreign Function Interfaces
 
 The ANSI Common Lisp standard doesn't mention this topic. So almost everything that can be said here depends on your OS and your implementation.<a name="clisp-gethost">### Example: Calling 'gethostname' from CLISP
 

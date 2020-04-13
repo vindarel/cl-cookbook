@@ -1,6 +1,4 @@
----
-title: WebSockets
----
+# WebSockets
 
 The Common Lisp ecosystem boasts a few approaches to building WebSocket servers.
 First, there is the excellent

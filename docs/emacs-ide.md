@@ -1,6 +1,4 @@
----
-title: Using Emacs as an IDE
----
+# Using Emacs as an IDE
 
 This page is meant to provide an introduction to using Emacs as a Lisp IDE. The key bindings used in the example code snippets assume an Emacs configuration similar to that provided by the [.emacs](https://github.com/LispCookbook/cl-cookbook/blob/master/.emacs) file that is included as part of the [Setting up an IDE with Emacs on Windows or Mac OS X](windows.html) page.
 

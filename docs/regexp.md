@@ -1,6 +1,4 @@
----
-title: Regular Expressions
----
+# Regular Expressions
 
 The [ANSI Common Lisp
 standard](http://www.lispworks.com/documentation/HyperSpec/index.html)

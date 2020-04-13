@@ -1,6 +1,4 @@
----
-title: Pattern Matching
----
+# Pattern Matching
 
 The ANSI Common Lisp standard does not include facilities for pattern
 matching, but libraries existed for this task and

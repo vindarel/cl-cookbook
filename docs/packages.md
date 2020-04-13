@@ -1,6 +1,4 @@
----
-title: Packages
----
+# Packages
 
 See: [The Complete Idiot's Guide to Common Lisp Packages][guide]
 
