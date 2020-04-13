@@ -45,6 +45,13 @@
 * [Miscellaneous](misc.md)
 * [License](license.md)
 
+# Translations
+
+The Cookbook has been translated to:
+
+* [Chinese](https://oneforalone.github.io/cl-cookbook-cn/#/) ([Github](https://github.com/oneforalone/cl-cookbook-cn))
+* [Portuguese (Brazilian)](https://book.lisp.com.br/) ([Github](https://github.com/commonlispbr/cl-cookbook))
+
 # Other CL Resources
 
 * [lisp-lang.org](http://lisp-lang.org/)
