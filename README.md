@@ -9,41 +9,11 @@ The CL Cookbook aims to tackle all sort of topics, for the beginner as for the m
 
 When adding new content, ensure it renders properly.
 
-There are two ways to do this:
+We use [Docsify](https://docsify.js.org/). Install it globally (`npm
+install -g docsify`) and run:
 
-First option is to install [Jekyll][jekyll] and run `jekyll serve` in a folder where this repository was checked out.
+    docsify serve docs
 
-Another option is to use github gem provided with the repo. To do this do the following:
-
-1. Ensure that bundler is installed (`gem install bundler` should do; in case that doesn't work, try `gem install bundler -v '1.17.3'` as per [this SO page][bundler-v2].)
-2. `bundle install --path vendor/bundle`
-3. `bundle exec jekyll serve`
-
-### Troubleshooting
-
-It can happen that you have older version of ruby installed in the system and
-bundler install will fail. To fix this, you need to update ruby. If system update
-is not an option, consider installing [rbenv][rbenv].
-
-~~~ sh
-    # Check rbenv homepage for install instructions on systems other than Mac OS X
-    brew install rbenv ruby-build
-
-    # Add rbenv to bash so that it loads every time you open a terminal
-    echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
-    source ~/.bash_profile
-
-    # Install Ruby
-    rbenv install 2.5.0
-    rbenv global 2.5.0
-    ruby -v
-~~~
-
-After this you can proceed as usual:
-
-1. `gem install bundler`
-2. `bundle install --path vendor/bundle`
-3. `bundle exec jekyll serve`
 
 Also, refer to the [CONTRIBUTING.md][contributing] file.
 
