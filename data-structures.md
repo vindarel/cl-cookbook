@@ -720,7 +720,7 @@ structure (see Recipe 2-7)".
 
 ### Comparing lists
 
-We can use sets functions.
+We can use set functions.
 
 ## Set
 
@@ -1267,7 +1267,7 @@ CL-USER> (hash-table-count *my-hash*)
 0
 ~~~
 
-### Printing a Hash Table readably
+### Printing a readable Hash Table
 
 **With print-object** (non portable)
 
@@ -1343,7 +1343,7 @@ This output can be read back in to create a hash-table:
 
 The [Serapeum library](https://github.com/ruricolist/serapeum/blob/master/REFERENCE.md#hash-tables)
 has the `dict` constructor, the function `pretty-print-hash-table` and
-the `toggle-pretty-print-hash-table` switch, all which do *not* use
+the `toggle-pretty-print-hash-table` switch, all of which do *not* use
 `print-object` under the hood.
 
 ~~~lisp
@@ -1966,8 +1966,8 @@ will be less explicit.
 ## Appendix B - accessing nested data structures
 
 Sometimes we work with nested data structures, and we might want an
-easier way to access a nested element than intricated "getf" and
-"assoc" and all. Also, we might want to just be returned a `nil` when
+easier way to access a nested element than intricate "getf" and
+"assoc". Also, we might want to just be returned a `nil` when
 an intermediary key doesn't exist.
 
 The `access` library given above provides this, with `(accesses var key1 key2…)`.
